@@ -1,4 +1,6 @@
 SQL Scripts for Database Management
+
+
 The scripts utilize the following SQL statements and operations:
 
 CREATE:
